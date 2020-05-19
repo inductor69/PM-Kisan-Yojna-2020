@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:checkableBehavior="single"
+        android:title="Category">
+        <menu>
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="New Farmer Registration" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_perm_contact_calendar_black_24dp"
+            android:title="Edit Aadhar Failure Record" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="Beneficiary Status" />
+        <item
+            android:id="@+id/nav_ll"
+            android:icon="@drawable/ic_ll"
+            android:title="Beneficiary List" />
+        <item
+            android:id="@+id/nav_ll1"
+            android:icon="@drawable/ic_ll1"
+            android:title="Status of Self Registered/CSC Farmer" />
+
+        </menu>
+    </item>
+
+
+</menu>

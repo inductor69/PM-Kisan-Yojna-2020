@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "851647377802",
+    "firebase_url": "https://pm-kisan-yojna-2020-7e8f3.firebaseio.com",
+    "project_id": "pm-kisan-yojna-2020-7e8f3",
+    "storage_bucket": "pm-kisan-yojna-2020-7e8f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851647377802:android:83567123f2f3c4dad01873",
+        "android_client_info": {
+          "package_name": "com.pm.kisanindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851647377802-86pel945o5guccoo2sf2ribgdeunt34b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUYRCWimhr0f25Krjvn7YLkYKvc2oz52o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851647377802-86pel945o5guccoo2sf2ribgdeunt34b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
